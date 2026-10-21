@@ -1,0 +1,8 @@
+.vscode/
+c_cpp_properties.json
+launch.json
+tasks.json
+result.txt
+*.o
+*.exe
+level.txt
